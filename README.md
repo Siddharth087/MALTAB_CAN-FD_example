@@ -4,7 +4,7 @@ This project uses temperature sensor and MBDToolbox in simulink to implement CAN
 Step 1: Install MBDToolbox using the following link in MATLAB2017a.
 https://nxp.flexnetoperations.com/control/frse/download?element=9501347
 
-You will get a free license after downloading. Save the 'license.dat' file in the lisence folder.
+You will get a free license after downloading. Save the 'license.dat' file in the license folder.
 
 Download the slave and the master simulink model files.
 
